@@ -5,7 +5,7 @@ A high-fidelity recreation of the [Mintlify.com](https://mintlify.com) landing p
 ## 🔗 Live Demo & Walkthrough
 
 - **🟢 Live Website:** [https://mintlifyclonemay.netlify.app/](https://mintlifyclonemay.netlify.app/)
-- **🎥 Video Walkthrough:** [VIDEO LINK HERE]
+- **🎥 Video Walkthrough:** [https://x.com/mayurbadgujar36/status/2020056315654205502?s=20](https://x.com/mayurbadgujar36/status/2020056315654205502?s=20)
 
 ---
 
